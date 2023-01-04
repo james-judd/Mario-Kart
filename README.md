@@ -1,6 +1,6 @@
 Introduction:
 
-This Mario Kart-themed web-based application, created using the React framework (Javascript), uses real-time sales data to "race" THG companies and products against each other. The application was wrapped in a Docker container for ease of deployment, however external access to THG's data feed is prohibited so this repository contains the raw code for intellectual use.
+This Mario Kart-themed web-based application, created using the React framework (Javascript), uses real-time sales data to "race" THG companies and products against each other. The application is wrapped in a Docker container for ease of deployment, however external access to THG's data feed is prohibited so this repository contains the raw code for intellectual use.
 
 
 Summary:
