@@ -15,7 +15,7 @@ Should you wish to run my application:
 
 Localhost:3000 will load the webpage's start screen (start button, background, music, etc.) but pressing start will not load the characters due to the blocked data stream.
 
-A screenshot of the start screen can be found in this repository.
+Screenshots of the start screen can be found in this repository.
 
 
 Future Goals:
